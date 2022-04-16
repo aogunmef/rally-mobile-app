@@ -1,0 +1,8 @@
+{
+  "name": "RallyMobileApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "cb4be683"
+}
